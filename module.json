@@ -1,0 +1,23 @@
+{
+  "id": "petshopimport",
+  "title": "Petshopimport",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "petshopimport",
+      "label": "petshopimport",
+      "path": "packs/petshopimport",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
