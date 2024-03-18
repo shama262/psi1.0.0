@@ -18,6 +18,9 @@
       },
       "system": "dnd5e",
       "flags": {}
-    }
+    },
+    "url": "https://www.patreon.com/user?u=56147101",
+    "manifest": "https://github.com/shama262/psi1.0.0/releases/download/psi2.0.0/module.json",
+    "download": "https://github.com/shama262/psi1.0.0/releases/download/psi2.0.0/petshopimport.zip"
   ]
 }
